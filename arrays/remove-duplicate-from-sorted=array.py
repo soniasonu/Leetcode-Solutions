@@ -1,4 +1,4 @@
-#26
+#26  
 class Solution(object):
     def removeDuplicates(self, nums):
         k = 1
