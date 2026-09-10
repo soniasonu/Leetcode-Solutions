@@ -1,4 +1,4 @@
-#268
+#268  
 class Solution(object):
     def missingNumber(self, nums):
         n = len(nums)
