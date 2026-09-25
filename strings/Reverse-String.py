@@ -7,5 +7,5 @@ class Solution(object):
             right -= 1
             
   
-        
+           
         
