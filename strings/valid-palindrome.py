@@ -16,4 +16,4 @@ class Solution(object):
         return num == result
 
 
-        
+          
